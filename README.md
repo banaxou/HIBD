@@ -7,9 +7,9 @@
 1 August
 
 ```
-[✓] : **Windows version True**
-[?] : **web version**
-[x] : **version Linux**
+[✓] : Windows version True
+[?] : web version
+[x] : version Linux
 ```
 
 tool coming soon...
