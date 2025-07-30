@@ -9,7 +9,7 @@
 ```
 [✓] : Windows version True
 [?] : web version
-[x] : version Linux
+[x] : version Linux soon
 ```
 
 tool coming soon...
