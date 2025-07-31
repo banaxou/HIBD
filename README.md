@@ -1,6 +1,6 @@
 # 🔍 HIBD 
 
-> **📅 Release Date:** `1er août 2025` / `August 1, 2025`  
+> **📅 Release Date:** `5 août 2025` / `August 5, 2025`  
 > **🧠 Inspired by:** [Have I Been Pwned](https://haveibeenpwned.com)
 
 1 août 
@@ -12,4 +12,4 @@
 [x] : version Linux soon
 ```
 
-tool coming soon...
+tool coming soon... reported 
