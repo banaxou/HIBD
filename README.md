@@ -1,5 +1,6 @@
 # 🔍 HIBD 
 
+![hibd](hibd.svg)
 > **📅 Release Date:** `5 août 2025` / `August 5, 2025`  
 > **🧠 Inspired by:** [Have I Been Pwned](https://haveibeenpwned.com)
 
