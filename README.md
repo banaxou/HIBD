@@ -13,4 +13,4 @@
 [x] : version Linux soon
 ```
 
-tool coming soon... reported 
+tool coming soon...
