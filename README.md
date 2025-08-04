@@ -1,11 +1,11 @@
 # 🔍 HIBD 
 
 ![hibd](hibd.svg)
-> **📅 Release Date:** `5 août 2025` / `August 5, 2025`  
+> **📅 Release Date:** `7 août 2025` / `August 7, 2025`  
 > **🧠 Inspired by:** [Have I Been Pwned](https://haveibeenpwned.com)
 
-5 août 
-5 August
+7 août 
+7 August
 
 ```
 [✓] : Windows version True
@@ -13,4 +13,4 @@
 [x] : version Linux soon
 ```
 
-tool coming soon...
+tool coming soon... reported 
