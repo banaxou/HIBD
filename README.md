@@ -4,8 +4,8 @@
 > **📅 Release Date:** `7 août 2025` / `August 7, 2025`  
 > **🧠 Inspired by:** [Have I Been Pwned](https://haveibeenpwned.com)
 
-7 août 
-7 August
+7 août 21h30
+7 August 
 
 ```
 [✓] : Windows version True
