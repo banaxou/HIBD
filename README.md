@@ -8,7 +8,7 @@
 ```
 [✓] : Windows version True
 [?] : web version
-[x] : version Linux soon
+[✓] : version Linux True
 ```
 
-tool coming soon... rrerererereported 
+tool coming soon in october 
